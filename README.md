@@ -1,5 +1,7 @@
 # language-wepy package
 
-A short description of your package.
+A simple Atom language package for wepy development.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+用于wepy开发的简单Atom语言包
+
+主要代码高亮来自[atom-vue](https://github.com/hedefalk/atom-vue)
